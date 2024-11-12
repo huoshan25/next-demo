@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
     <body>
-    <div className="bg-[#a8d212ff] h-[100px] w-[200px]  text-[#dbdde8ff]">22222</div>
+    <div className="bg-[#c21155ff] h-[100px] w-[200px]">test</div>
     {children}
     </body>
     </html>
